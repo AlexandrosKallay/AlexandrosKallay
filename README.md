@@ -1,4 +1,4 @@
-### Hi there, I'm Alex - aka [GhostHolly][linkedin] 👋 
+### Hi there, I'm Alex 👋 
 
 [![linkedin](https://img.shields.io/website?label=linkedin.com&style=for-the-badge&url=https%3A%2F%2Flinkedin.com)](https://linkedin.com/in/alexandroskallay)
 
