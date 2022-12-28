@@ -5,8 +5,8 @@
 
 ## I'm a mobile app developer!!
 
-- 🌱 I’m currently learning java and kotlin
-- 👯 I’m looking to collaborate with other app developers
+- 🌱 I’m currently learning java
+- 👯 I’m looking to collaborate with other developers
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love snowboarding and playing football
 
