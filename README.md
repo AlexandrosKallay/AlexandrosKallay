@@ -25,7 +25,6 @@
 <img align="left" alt="Android" width="26px" src="https://img.icons8.com/color/48/000000/android-os.png" />
 <img align="left" alt="Firebase" width="26px" src="https://img.icons8.com/color/48/000000/firebase.png" />
 <img align="left" alt="Flutter" width="26px" src="https://img.icons8.com/color/48/000000/flutter.png" />
-<img align="left" alt="VS" width="26px" src="https://img.icons8.com/color/48/000000/visual-studio-2019.png" />
 <br />
 
 
