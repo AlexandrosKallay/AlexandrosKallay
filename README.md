@@ -3,7 +3,7 @@
 [![linkedin](https://img.shields.io/website?label=linkedin.com&style=for-the-badge&url=https%3A%2F%2Flinkedin.com)](https://linkedin.com/in/alexandroskallay)
 
 
-## I'm a BackEnd developer!!
+## I'm a java BackEnd developer!!
 
 - 🌱 I’m currently learning java
 - 👯 I’m looking to collaborate with other developers
